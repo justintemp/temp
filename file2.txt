@@ -2,22 +2,36 @@ asdfadfsda
 a
 df
 
+let's introduce some 
 
 Hmm I'm making some changes here
 
 asdf adding to this line
 adding at beginning asdf
 as1
+merge conflicts
 fa
 schange here df
 s
+-----
 af
-a/* asdf */sd
-fas
+
+
+
+
+
+
+
+
+huzzah
+aSd
+fAs
 dfa
 df
-asdf
-sd
+ASDF
+SD
+fa
+sf
 
 sdfa
 sdf
