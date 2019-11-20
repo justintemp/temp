@@ -2,22 +2,25 @@ asdfadfsda
 a
 df
 
-
+let's introduce some 
 
 
 asdf
-asdf
+a /* asdf */sdf
 as1
+merge conflicts
 fa
 sdf
 s
+-----
 af
-asd
-fas
+huzzah
+aSd
+fAs
 dfa
 df
-asdf
-sd
+ASDF
+SD
 fa
 sf
 
